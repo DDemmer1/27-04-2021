@@ -8,7 +8,7 @@
 In dieser Aufgabe wird der Umgang mit einem ```Iterator``` geübt.
 
 1. Erzeugt eine ```LinkedList<Integer>``` und füllt sie mit 1000 zufälligen Zahlen von 1-100 (Code zum zufälligen generieren steht schon in der ```main```-Methode)
-2. Iteriert mit dem Iterator der ```LinkedList<Integer>``` über die Liste und löscht dabei alle Integer aus der Liste größer als 50 sind
+2. Iteriert mit dem Iterator der ```LinkedList<Integer>``` über die Liste und löscht dabei alle Integer aus der Liste die größer als 50 sind
  
 
 
