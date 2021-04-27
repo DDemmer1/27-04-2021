@@ -17,5 +17,3 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [📃 gitHub - Java Wegweiser](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Iterable-und-Iterator.md)
 - [📃 w3school - Java Iterator](https://www.w3schools.com/java/java_iterator.asp)
-- 
-
